@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Test GitHub");
 			Console.WriteLine("New Line. Commit");
             Console.WriteLine("Next Line. Commit");
+            Console.WriteLine("Mee too want to commit");
         }
     }
 }
