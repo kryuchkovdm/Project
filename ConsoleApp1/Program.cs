@@ -12,6 +12,7 @@ namespace ConsoleApp1
             Console.WriteLine("Next Line. Commit");
             Console.WriteLine("Mee too want to commit");
             Console.WriteLine("Mee too want to commit1");
+            Console.WriteLine("Mee too want to commit2");
         }
     }
 }
